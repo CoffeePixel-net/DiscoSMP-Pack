@@ -1,0 +1,10 @@
+{
+  "music_disc.reach": {
+    "sounds": [
+      {
+        "name": "minecraft:disc/reach",
+        "stream": true
+      }
+    ]
+  }
+}

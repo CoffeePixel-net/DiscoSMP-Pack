@@ -1,0 +1,134 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001.0
+      },
+      "model": "item/discsword/13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002.0
+      },
+      "model": "item/discsword/cat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003.0
+      },
+      "model": "item/discsword/blocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004.0
+      },
+      "model": "item/discsword/chirp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005.0
+      },
+      "model": "item/discsword/far"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006.0
+      },
+      "model": "item/discsword/mall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007.0
+      },
+      "model": "item/discsword/mellohi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008.0
+      },
+      "model": "item/discsword/stal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009.0
+      },
+      "model": "item/discsword/strad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010.0
+      },
+      "model": "item/discsword/ward"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011.0
+      },
+      "model": "item/discsword/11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012.0
+      },
+      "model": "item/discsword/wait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013.0
+      },
+      "model": "item/discsword/pigstep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014.0
+      },
+      "model": "item/discsword/otherside"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015.0
+      },
+      "model": "item/discsword/relic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016.0
+      },
+      "model": "item/discsword/creator"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017.0
+      },
+      "model": "item/discsword/creator_music_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018.0
+      },
+      "model": "item/discsword/precipice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1019.0
+      },
+      "model": "item/discsword/lava_chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1020.0
+      },
+      "model": "item/discsword/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021.0
+      },
+      "model": "item/discsword/tears"
+    }
+  ]
+}
